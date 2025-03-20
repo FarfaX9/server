@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "12781826a63b3e25b9b93744ddb1875d"
+	name: "Farfaxx9#12781826"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "12781826-a63b-3e25-b9b9-3744ddb1875d"
+	type: "player"
+	player_name: "Farfaxx9"
+	ranks: {
+		12781826-a63b-3e25-b9b9-3744ddb1875d: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Farfaxx9"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5990"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

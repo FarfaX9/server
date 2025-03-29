@@ -1076,3 +1076,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Mar2025 22:06:22.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Farfaxx9 joined the game
 [29Mar2025 22:06:22.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Farfaxx9 has reached the goal [Easter]
 [29Mar2025 22:06:22.388] [Server thread/INFO] [Jade/]: Syncing config to Farfaxx9 (12781826-a63b-3e25-b9b9-3744ddb1875d)
+[29Mar2025 22:09:33.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2427ms or 48 ticks behind
+[29Mar2025 22:10:45.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Farfaxx9 moved too quickly! 8.343575917282095,-2.4365033597325265,5.158138263573285
+[29Mar2025 22:10:45.740] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3660ms or 73 ticks behind
+[29Mar2025 22:12:49.288] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/1273, l='ServerLevel[Mundo nuevo]', x=76.70, y=66.00, z=65.44] died, message: 'Unemployed was slain by Zombie'

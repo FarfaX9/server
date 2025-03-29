@@ -11056,3 +11056,99 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Mar2025 22:06:44.186] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_oak_log
 [29Mar2025 22:06:44.318] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@37b57503 for service interface com.blamejared.clumps.platform.IEventHelper
 [29Mar2025 22:06:44.319] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@a39ebd3 for service interface com.blamejared.clumps.platform.IPlatformHelper
+[29Mar2025 22:08:03.534] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[29Mar2025 22:08:03.559] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[29Mar2025 22:09:31.401] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of theorcs:orc_camp
+[29Mar2025 22:09:33.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2427ms or 48 ticks behind
+[29Mar2025 22:10:41.927] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_spruce_log
+[29Mar2025 22:10:42.883] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:silverfish_cluster_1
+[29Mar2025 22:10:42.887] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:silverfish_cluster_2
+[29Mar2025 22:10:43.004] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:farm_2
+[29Mar2025 22:10:43.008] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:villager_house_4
+[29Mar2025 22:10:43.014] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:villager_house_3
+[29Mar2025 22:10:43.019] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_villager_house_1
+[29Mar2025 22:10:43.021] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:villager_house_1
+[29Mar2025 22:10:43.025] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:farm_1
+[29Mar2025 22:10:43.028] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:villager_house_2
+[29Mar2025 22:10:43.150] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_circle_3
+[29Mar2025 22:10:43.154] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_circle_1
+[29Mar2025 22:10:43.158] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_circle_2
+[29Mar2025 22:10:43.164] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:jungle_log
+[29Mar2025 22:10:43.167] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_jungle_tree_1
+[29Mar2025 22:10:43.172] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:log_bundle
+[29Mar2025 22:10:43.175] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_acacia_log
+[29Mar2025 22:10:43.178] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_spruce_tree_1
+[29Mar2025 22:10:43.181] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:damaged_mushroom_2
+[29Mar2025 22:10:43.185] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:birch_log
+[29Mar2025 22:10:43.193] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:damaged_mushroom_1
+[29Mar2025 22:10:43.208] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_jungle_log
+[29Mar2025 22:10:43.213] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_palm_tree_2
+[29Mar2025 22:10:43.218] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:acacia_log
+[29Mar2025 22:10:43.223] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:oak_log_2
+[29Mar2025 22:10:43.228] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:jungle_tree_hole
+[29Mar2025 22:10:43.232] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_oak_tree_1
+[29Mar2025 22:10:43.237] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_dead_tree_3
+[29Mar2025 22:10:43.242] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_spruce_tree_2
+[29Mar2025 22:10:43.247] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:big_jungle_log
+[29Mar2025 22:10:43.252] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:oak_log_1
+[29Mar2025 22:10:43.256] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_palm_tree_1
+[29Mar2025 22:10:43.261] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_dark_oak_log
+[29Mar2025 22:10:43.266] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spruce_log_1
+[29Mar2025 22:10:44.053] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_nether_portal
+[29Mar2025 22:10:45.326] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (233 | 34 | -175)
+[29Mar2025 22:10:45.335] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (233 | 34 | -175)
+[29Mar2025 22:10:45.335] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation NONE at (242 | 34 | -174)
+[29Mar2025 22:10:45.336] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation NONE at (242 | 34 | -174)
+[29Mar2025 22:10:45.336] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/dark_hall with rotation NONE at (247 | 34 | -180)
+[29Mar2025 22:10:45.342] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/dark_hall with rotation NONE at (247 | 34 | -180)
+[29Mar2025 22:10:45.343] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (244 | 25 | -165)
+[29Mar2025 22:10:45.344] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (244 | 25 | -165)
+[29Mar2025 22:10:45.344] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (243 | 25 | -163)
+[29Mar2025 22:10:45.344] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (243 | 25 | -163)
+[29Mar2025 22:10:45.344] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (240 | 25 | -178)
+[29Mar2025 22:10:45.350] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (240 | 25 | -178)
+[29Mar2025 22:10:45.350] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_90 at (229 | 15 | -171)
+[29Mar2025 22:10:45.353] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_90 at (229 | 15 | -171)
+[29Mar2025 22:10:45.353] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation NONE at (248 | 7 | -188)
+[29Mar2025 22:10:45.354] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation NONE at (248 | 7 | -188)
+[29Mar2025 22:10:45.355] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sarcophagus at (248 | 7 | -188)
+[29Mar2025 22:10:45.356] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sarcophagus at (248 | 7 | -188)
+[29Mar2025 22:10:45.356] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/room/empty_room with rotation NONE at (233 | -2 | -176)
+[29Mar2025 22:10:45.357] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/room/empty_room with rotation NONE at (233 | -2 | -176)
+[29Mar2025 22:10:45.363] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (234 | -2 | -167)
+[29Mar2025 22:10:45.363] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (234 | -2 | -167)
+[29Mar2025 22:10:45.363] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation CLOCKWISE_90 at (229 | -2 | -162)
+[29Mar2025 22:10:45.363] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation CLOCKWISE_90 at (229 | -2 | -162)
+[29Mar2025 22:10:45.363] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation NONE at (245 | -2 | -175)
+[29Mar2025 22:10:45.363] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation NONE at (245 | -2 | -175)
+[29Mar2025 22:10:45.363] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation CLOCKWISE_180 at (245 | -2 | -170)
+[29Mar2025 22:10:45.363] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation CLOCKWISE_180 at (245 | -2 | -170)
+[29Mar2025 22:10:45.363] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation NONE at (242 | -2 | -175)
+[29Mar2025 22:10:45.364] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation NONE at (242 | -2 | -175)
+[29Mar2025 22:10:45.364] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (251 | -2 | -176)
+[29Mar2025 22:10:45.368] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (251 | -2 | -176)
+[29Mar2025 22:10:45.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Farfaxx9 moved too quickly! 8.343575917282095,-2.4365033597325265,5.158138263573285
+[29Mar2025 22:10:45.740] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3660ms or 73 ticks behind
+[29Mar2025 22:11:41.418] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation NONE at (247 | 7 | -144)
+[29Mar2025 22:11:41.419] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation NONE at (247 | 7 | -144)
+[29Mar2025 22:11:41.419] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison at (247 | 7 | -144)
+[29Mar2025 22:11:41.420] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison at (247 | 7 | -144)
+[29Mar2025 22:11:41.478] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation NONE at (253 | 14 | -138)
+[29Mar2025 22:11:41.478] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation NONE at (253 | 14 | -138)
+[29Mar2025 22:11:41.478] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (253 | 14 | -138)
+[29Mar2025 22:11:41.478] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (253 | 14 | -138)
+[29Mar2025 22:11:41.479] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation NONE at (247 | 7 | -144)
+[29Mar2025 22:11:41.480] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation NONE at (247 | 7 | -144)
+[29Mar2025 22:11:41.480] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison at (247 | 7 | -144)
+[29Mar2025 22:11:41.482] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison at (247 | 7 | -144)
+[29Mar2025 22:11:41.836] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/dark_hall with rotation NONE at (247 | 34 | -180)
+[29Mar2025 22:11:41.838] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/dark_hall with rotation NONE at (247 | 34 | -180)
+[29Mar2025 22:11:41.838] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation NONE at (248 | 7 | -188)
+[29Mar2025 22:11:41.838] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation NONE at (248 | 7 | -188)
+[29Mar2025 22:11:41.838] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sarcophagus at (248 | 7 | -188)
+[29Mar2025 22:11:41.839] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sarcophagus at (248 | 7 | -188)
+[29Mar2025 22:11:41.839] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (251 | -2 | -176)
+[29Mar2025 22:11:41.840] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (251 | -2 | -176)
+[29Mar2025 22:12:49.288] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/1273, l='ServerLevel[Mundo nuevo]', x=76.70, y=66.00, z=65.44] died, message: 'Unemployed was slain by Zombie'
+[29Mar2025 22:13:09.568] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[29Mar2025 22:13:09.598] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
